@@ -1,0 +1,10 @@
+项目中包含4个源文件：
+	abenc_rw13.py  --->  rw13论文实现
+	abenc_zxing.py --->  张星论文实现
+	time_stat.sh   --->  统计程序运行时间的shell脚本
+	cal_time_avg.py ---> 计算程序平均运行时间的python脚本
+
+*************************************************************
+使用方法
+	1.运行time_stat.sh，格式：time_stat.sh <论文算法实现的python脚本> <程序运行次数>，该脚本默认输出到终端，可以通过重定向到某个文件
+	2.运行cal_time_avg.py 格式：python cal_time_avg.py <time_stat.sh输出的文件名>，该脚本默认的输出到终端
