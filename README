@@ -13,7 +13,7 @@ How to use:
 		the output of Step 1 is sent to the console defaultly, you can redirect it to some files.
 	Step 2: run cal_time_avg.py 
 		syntax: python cal_time_avg.py <output of Step 1>
-		the output of Step 1 is sent to the console defaultly
+		the output of Step 2 is sent to the console defaultly
 
 
 ########################################
